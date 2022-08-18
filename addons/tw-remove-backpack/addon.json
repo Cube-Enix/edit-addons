@@ -17,5 +17,5 @@
   "tags": ["danger"],
   "dynamicEnable": true,
   "dynamicDisable": true,
-  "enabledByDefault": false
+  "enabledByDefault": true
 }

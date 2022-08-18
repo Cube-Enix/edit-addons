@@ -18,4 +18,5 @@
     }
   ],
   "versionAdded": "1.23.0"
+  "enabledByDefault": true
 }
